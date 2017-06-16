@@ -1,0 +1,14 @@
+List of all people who are shared with in their username folder
+Doesn't have to be encrypted
+username/hash/
+need symmetric key and 
+difie hellman key exchange 
+asymmetrically sign the name and then check if in list
+hash names in list so they don't know what it isa
+implement pointers, and encrypt the pointer as well
+
+reimplement first part, regarding to_json and using IV
+encrypt message + IV to make sure no one changes IV and use that as a MAC
+create a bunch of helper functions
+
+Revocation 
